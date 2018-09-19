@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  prometheus-postgresql-adapter:
+  - apiVersion: v1
+    created: 2018-09-18T11:29:37.283855743+01:00
+    description: Provides a Prometheus PostgreSQL adpater instance.
+    digest: 859cc4b2e5d4f6bcb7ab433267b97121eb5d256882b7bd3cbd56d8294d33cfa6
+    home: https://github.com/RicardoLorenzo/prometheus-postgresql-adapter
+    keywords:
+    - prometheus
+    - postgresql
+    maintainers:
+    - email: ricardo.lorenzo@consensys.net
+      name: Ricardo Lorenzo
+    name: prometheus-postgresql-adapter
+    sources:
+    - https://github.com/RicardoLorenzo/prometheus-postgresql-adapter
+    urls:
+    - prometheus-postgresql-adapter-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-18T11:29:37.283500875+01:00
