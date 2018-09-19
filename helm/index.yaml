@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/RicardoLorenzo/prometheus-postgresql-adapter
     urls:
-    - prometheus-postgresql-adapter-0.1.0.tgz
+    - https://github.com/RicardoLorenzo/prometheus-postgresql-adapter/tree/master/helm/prometheus-postgresql-adapter-0.1.0.tgz
     version: 0.1.0
 generated: 2018-09-18T11:29:37.283500875+01:00
