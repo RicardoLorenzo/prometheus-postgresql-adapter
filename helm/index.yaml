@@ -5,7 +5,7 @@ entries:
     created: 2018-09-18T11:29:37.283855743+01:00
     description: Provides a Prometheus PostgreSQL adpater instance.
     digest: 859cc4b2e5d4f6bcb7ab433267b97121eb5d256882b7bd3cbd56d8294d33cfa6
-    home: https://github.com/RicardoLorenzo/prometheus-postgresql-adapter/helm
+    home: https://github.com/RicardoLorenzo/prometheus-postgresql-adapter
     keywords:
     - prometheus
     - postgresql
