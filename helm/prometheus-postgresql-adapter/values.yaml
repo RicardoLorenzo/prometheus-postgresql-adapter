@@ -1,0 +1,5 @@
+  pg:
+    host: localhost
+
+  service:
+    internalPort: 9201
