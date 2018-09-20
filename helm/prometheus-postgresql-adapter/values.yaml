@@ -2,4 +2,5 @@
     host: localhost
 
   service:
+    externalPort: 9201
     internalPort: 9201
